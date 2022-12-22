@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jacek Schneider
 - 👀 I’m interested in automation
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on IoT, Data Science, Socket Programming
+- 💞️ I’m looking to collaborate on IoT, Data Science, AWS
 - 📫 How to reach me ->linkedin Jacek Schneider
 
 <!---
