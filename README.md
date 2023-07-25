@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Jacek Schneider
-- 👀 I’m interested in automation
+- 👀 I’m interested in IT solutions
 - 🌱 I’m currently learning Python and C/C++
-- 💞️ I’m looking to collaborate on IoT, Data Science, AWS, Qt
+- 💞️ I’m looking to collaborate on C/C++, Python, QT, AWS, Linux
 - 📫 How to reach me ->linkedin Jacek Schneider
 
 <!---
