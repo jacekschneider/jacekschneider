@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Python and C/C++
 - 💞️ I’m looking to collaborate on C/C++, Python, QT, AWS, Linux
 - 📫 How to reach me ->linkedin Jacek Schneider
+
+ ####   I love doing katas and thats my codewars badge!
+  
 ![](https://www.codewars.com/users/JSchneider/badges/large)
 <!---
 schneiderautomatyka/schneiderautomatyka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
