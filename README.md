@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on C/C++, Python, QT, AWS, Linux
 - 📫 How to reach me ->linkedin Jacek Schneider
 
- ####   I love doing katas and thats my codewars badge!
+ ####   I love doing katas and thats my Codewars badge!
   
 ![](https://www.codewars.com/users/JSchneider/badges/large)
 <!---
